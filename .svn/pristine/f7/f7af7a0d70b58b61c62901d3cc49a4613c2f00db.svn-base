@@ -1,0 +1,17 @@
+===============================
+{{ cookiecutter.repo_name }}
+===============================
+
+
+{{ cookiecutter.description }}
+
+* Free software: ISC license
+* Documentation:
+  http://devpi.na-pytools.tds.local/{{ cookiecutter.username }}/dev/{{ cookiecutter.repo_name }}/0.1.0/+d/index.html
+
+Features
+--------
+
+* Exports the version and build timestamp at a well-defined URL
+* Checks any database connections defined in your ``settings`` file for
+  liveness and displays whether they are alive or not.
