@@ -1,5 +1,0 @@
--r base.txt
-pylint==1.4.4
-pytest
-coverage
-mock

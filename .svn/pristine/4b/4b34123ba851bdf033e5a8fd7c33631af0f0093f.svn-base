@@ -1,8 +1,0 @@
-{% if cookiecutter.requests == "y" -%}
-requests
-tds-ssl-certifi
-{%- endif %}
-{% if cookiecutter.script == "y" -%}
-click
-schedule
-{%- endif %}
